@@ -1,0 +1,48 @@
+.container {
+    width: 575px;
+    height: 100vh;
+    background-color: rgb(109, 124, 139);
+    padding-left: 30px;
+    align-content: center;
+}
+
+#height,
+#weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px ;
+}
+
+#weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+    font-weight: 600px;
+}
+
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: black;
+}
+
+button {
+    width: 200px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: rgb(41, 183, 226);
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: rgb(41, 37, 37);
+    text-decoration: none;
+    border: 2px solid rgb(18, 4, 4);
+    font-size: 25px ;
+    cursor: pointer;
+    text-align: center;
+}
+
+h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+}
