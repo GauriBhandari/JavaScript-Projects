@@ -16,4 +16,8 @@ form.addEventListener('submit', function(e) {
 
         results.innerHTML = `<span>${bmi}</span>`
     }
+
+    /* if (bmi <18.6){
+        results.innerHTML = `You are under weight`;
+    } */
 });
